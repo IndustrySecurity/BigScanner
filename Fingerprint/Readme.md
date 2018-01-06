@@ -1,18 +1,32 @@
 
 ## OS Fingerprint
-# ---Windows Series---
+---Windows Series---
 
-# ---Linux Series---
+---Linux Series---
 
-# ---Mac OSX ---
+---Mac OSX ---
 
 ## Service Fingerprint
+---Tomcat---
+
+---Nginx---
+
+---Apache---
 
 
 ## Web Fingerprint
+---Wordpress---
+
+---Drupal---
 
 
 ## ICS Fingerprint
+---WinCC---
+
+---Controller---
 
 
 ## IoT Fingerprint
+---Router---
+
+
