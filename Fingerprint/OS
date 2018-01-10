@@ -1,13 +1,23 @@
 {
-  "Windows" : {
-    "Win7":{
+  "windows" : {
+    "common":{
+      "ports" : [3389, 445],
+      "ttl": 64
+    },
+    "win7":{
+
+    },
+    "win2008":{
 
     }
   },
-  "Ubuntu":{
-
-  },
-  "CentOS":{
-
+  "linux" : {
+    "common":{
+      "ports" : [22]
+    },
+    "ubuntu": {
+    },
+    "centos": {
+    }
   }
 }
